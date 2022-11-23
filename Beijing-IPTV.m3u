@@ -28,7 +28,7 @@ http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
 http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="歌华央卫",CCTV13
 http://hls.yun.gehua.net.cn:8088/live/CCTV13HD_2000.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" group-title="歌华央视",CCTV13
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV13" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png" group-title="歌华央视",CCTV13
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png" group-title="歌华央卫",CCTV14
 http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
