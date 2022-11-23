@@ -108,86 +108,36 @@ http://hls.yun.gehua.net.cn:8088/live/LiaoNingHD_1200.m3u8
 http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
 #EXTINF:-1 tvg-id="101" tvg-name="成龙" group-title="影视轮播",成龙
 http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="102" tvg-name="成龙集" group-title="影视轮播",成龙作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/707671890
-#EXTINF:-1 tvg-id="103" tvg-name="盗墓" group-title="影视轮播",盗墓
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
-#EXTINF:-1 tvg-id="104" tvg-name="盗墓笔记" group-title="影视轮播",盗墓笔记
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 #EXTINF:-1 tvg-id="105" tvg-name="动作大片" group-title="影视轮播",动作大片
 http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="106" tvg-name="高分影院" group-title="影视轮播",高分影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-#EXTINF:-1 tvg-id="107" tvg-name="高能烧脑时刻" group-title="影视轮播",高能烧脑时刻
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-#EXTINF:-1 tvg-id="108" tvg-name="高清大片" group-title="影视轮播",高清大片
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-#EXTINF:-1 tvg-id="109" tvg-name="古龙作品集" group-title="影视轮播",古龙作品集
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
 #EXTINF:-1 tvg-id="110" tvg-name="古墓系列" group-title="影视轮播",古墓系列
 http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="111" tvg-name="古天乐" group-title="影视轮播",古天乐
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 #EXTINF:-1 tvg-id="112" tvg-name="古装武侠" group-title="影视轮播",古装武侠
 http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="113" tvg-name="郭富城" group-title="影视轮播",郭富城
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 #EXTINF:-1 tvg-id="114" tvg-name="黑帮系列" group-title="影视轮播",黑帮系列
 http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="115" tvg-name="红色谍战剧场" group-title="影视轮播",红色谍战剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
 #EXTINF:-1 tvg-id="116" tvg-name="洪金宝" group-title="影视轮播",洪金宝
 http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="117" tvg-name="怀旧老片" group-title="影视轮播",怀旧老片
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
 #EXTINF:-1 tvg-id="118" tvg-name="黄渤" group-title="影视轮播",黄渤
 http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-#EXTINF:-1 tvg-id="119" tvg-name="黄金剧场" group-title="影视轮播",黄金剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
-#EXTINF:-1 group-title="影视轮播",僵尸剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
 #EXTINF:-1 group-title="影视轮播",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="影视轮播",金庸频道
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 #EXTINF:-1 group-title="影视轮播",金庸武侠系列
 http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视轮播",经典贺岁片
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
-#EXTINF:-1 group-title="影视轮播",经典影视速看
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
 #EXTINF:-1 group-title="影视轮播",警匪系列
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视轮播",军旅剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
 #EXTINF:-1 group-title="影视轮播",李连杰
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视轮播",林正英
 http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视轮播",刘德华
 http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视轮播",刘德华影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
 #EXTINF:-1 group-title="影视轮播",刘家辉
 http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视轮播",刘亦菲影视展播
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
-#EXTINF:-1 group-title="影视轮播",每日科幻电影
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-#EXTINF:-1 group-title="影视轮播",咪咕暑期剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-#EXTINF:-1 group-title="影视轮播",咪咕云上电影院
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
 #EXTINF:-1 group-title="影视轮播",女神影院
 https://pull.kktv8.com/livekktv/99350550.flv
-#EXTINF:-1 group-title="影视轮播",热剧联播
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
 #EXTINF:-1 group-title="影视轮播",赛车系列
 http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视轮播",少林剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-#EXTINF:-1 group-title="影视轮播",深夜失眠剧场
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
 #EXTINF:-1 group-title="影视轮播",吴孟达
 http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视轮播",午夜影院
@@ -204,8 +154,6 @@ http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-27
 http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
 #EXTINF:-1 group-title="影视轮播",周润发
 http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-#EXTINF:-1 group-title="影视轮播",追剧少女
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
 
 
 
